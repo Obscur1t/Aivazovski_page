@@ -20,8 +20,8 @@
 }
 
 
-.about-discription-ru,
-.about-discription-en {
+.about-description-ru,
+.about-description-en {
     font-size: 18px;
     font-weight: 500;
     margin: 0 auto 15px;
@@ -33,7 +33,7 @@
     margin: 15px auto 15px;
 }
 
-.about-discription-en {
+.about-description-en {
     margin: 0 auto;
 }
 
@@ -41,8 +41,8 @@
 
     .about-subtitle-en,
     .about-subtitle-ru,
-    .about-discription-en,
-    .about-discription-ru {
+    .about-description-en,
+    .about-description-ru {
         font-size: 14px;
     }
     
