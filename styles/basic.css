@@ -41,3 +41,7 @@ h1, p, h2 {
     border: none;
     margin: 0 auto;
 }
+
+path{
+    pointer-events:all;
+}
